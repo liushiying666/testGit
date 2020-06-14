@@ -4,10 +4,10 @@ public class HelloGit {
 
 	public static void main(String[] args) {
 		System.out.println("Hello Git!");
-		System.out.println("创建分支");
-		System.out.println("主干添加");
-		System.out.println("分支添加");
-		System.out.println("第二次提交之前的更新");
+		System.out.println("鍒涘缓鍒嗘敮");
+		System.out.println("涓诲共娣诲姞");
+		System.out.println("鍒嗘敮娣诲姞");
+		System.out.println("绗簩娆℃彁浜や箣鍓嶇殑鏇存柊");
 	}
 
 }
